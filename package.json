@@ -1,0 +1,15 @@
+{
+  "name": "peer-morg-server",
+  "version": "0.0.3",
+  "description": "peer multiplay online racing game server",
+  "main": "lib/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shiruco/PeerMORGServer.git"
+  },
+  "author": "shiruco",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {}
+}
